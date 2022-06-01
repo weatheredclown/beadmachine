@@ -1,4 +1,4 @@
-# Punktasia: Bead Machine
+# Bead Machine: Punktasia
 
  - A simple dart game.
  - Build with `build.bat` or serve with `webdev serve`
